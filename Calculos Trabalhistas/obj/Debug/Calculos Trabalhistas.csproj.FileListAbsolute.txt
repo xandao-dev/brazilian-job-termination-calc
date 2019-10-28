@@ -1,0 +1,69 @@
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.config
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.config
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.config
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.pdb
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+C:\Users\Godofredo\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas X\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.pdb
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.config
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.manifest
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.application
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.TrustInfo.xml
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe.manifest
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.application
+C:\Users\System32\Desktop\Alexandre\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.config
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe.manifest
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.application
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.exe
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\bin\Debug\Calculos Trabalhistas.pdb
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.TrustInfo.xml
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe.manifest
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.application
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+E:\Alexandre\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojResolveAssemblyReference.cache
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.Cache
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.TrustInfo.xml
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+C:\Users\System32\Desktop\Engenharia\Programaçao\C#\Projetos\FINAIS\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csprojAssemblyReference.cache
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.PrincipalForm.resources
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos_Trabalhistas.Properties.Resources.resources
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.csproj.GenerateResource.cache
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.TrustInfo.xml
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.exe
+E:\Engenharia\Programaçao\C#\Projetos\Calculos Trabalhistas\Calculos Trabalhistas\Calculos Trabalhistas\obj\Debug\Calculos Trabalhistas.pdb
