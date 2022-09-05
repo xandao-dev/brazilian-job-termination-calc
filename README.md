@@ -10,11 +10,11 @@
   :warning: Do not use, calculations are out of date and it has a very bad architecture :warning:
   <br />
 	<br />
-    <a href="https://github.com/xandao6/brazilian-job-termination-calc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/brazilian-job-termination-calc"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/brazilian-job-termination-calc/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/brazilian-job-termination-calc/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/brazilian-job-termination-calc/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/brazilian-job-termination-calc/issues">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/xandao6/brazilian-job-termination-calc">
+  <a href="https://github.com/xandao-dev/brazilian-job-termination-calc">
     <img src="./assets/calc-rescisao.jpg" alt="job termination calculator">
     <img src="./assets/calc-rescisao-2.jpg" alt="job termination calculator options">
     <img src="./assets/calc-results.jpg" alt="job termination calculator results">
@@ -72,7 +72,7 @@
 
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/brazilian-job-termination-calc/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/brazilian-job-termination-calc/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -92,6 +92,6 @@ Free software =)
 
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [@xandao-dev](https://www.linkedin.com/in/xandao-dev/) - alexandrecalilmf@gmail.com
 
-Project Link: [https://github.com/xandao6/brazilian-job-termination-calc](https://github.com/xandao6/brazilian-job-termination-calc)
+Project Link: [https://github.com/xandao-dev/brazilian-job-termination-calc](https://github.com/xandao-dev/brazilian-job-termination-calc)
