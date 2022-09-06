@@ -92,6 +92,6 @@ Free software =)
 
 ## Contact
 
-Alexandre Calil - [@xandao-dev](https://www.linkedin.com/in/xandao-dev/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
 Project Link: [https://github.com/xandao-dev/brazilian-job-termination-calc](https://github.com/xandao-dev/brazilian-job-termination-calc)
